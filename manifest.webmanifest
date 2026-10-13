@@ -1,12 +1,12 @@
 {
-  "name": "ORBIT — Personal Assistant",
+  "name": "ORBIT — Real-Life Hunter System",
   "short_name": "ORBIT",
-  "description": "Your personal offline-first assistant.",
+  "description": "Train, learn, build habits, complete life missions, and evolve from E-Rank to S-Rank.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#080d18",
-  "theme_color": "#080d18",
+  "background_color": "#080711",
+  "theme_color": "#080711",
   "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
 }
